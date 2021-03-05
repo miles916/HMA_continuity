@@ -1,7 +1,7 @@
 # HMA_continuity
 Scripts to apply the continuity equation in an automated, distributed manner at regional scales, used in 'Health and sustainability of glaciers in High Mountain Asia' by Miles and others.
 
-Note that numerous hard paths have to change for the scripts to be run. Ancillary codes are available on reasonable request. Please also see our user-friendly implementation at: 
+This is an archive version, note that numerous hard paths have to change for the scripts to be run. Ancillary codes are available on reasonable request. Please also see our user-friendly implementation at: https://github.com/miles916/grid_continuity_SMB
 
 Manuscript:
 
